@@ -1,7 +1,10 @@
 package interview_Test;
 
+import org.testng.annotations.Test;
+
 public class Swapping_String {
 
+	@Test
 	public static void main(String[] args) {
 		
 			String name = "Welcome to Test Yantra";
